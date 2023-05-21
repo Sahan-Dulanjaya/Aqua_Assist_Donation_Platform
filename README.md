@@ -1,0 +1,5 @@
+AquaAssist: Donation Platform
+
+AquaAssist is a groundbreaking web application developed to address the critical water challenges faced by people across Sri Lanka. With increasing environmental pollution, accessing clean and quality water has become a significant hurdle. Moreover, reporting water-related issues to the relevant authorities often results in delays and inadequate solutions. AquaAssist aims to bridge this gap by providing a platform for individuals to register and report their water-related problems. It also allows users to post upcoming clean water and sanitation campaigns in their area, fostering community engagement.
+
+Leveraging the power of MERN stack technology, AquaAssist offers multiple login types, ensuring secure access for all users. The application facilitates efficient data storage and retrieval, enabling swift communication between those in need and those willing to help. Charities, organizations, and individuals can register and donate funds to support individuals facing water challenges. AquaAssist empowers governmental authorities to stay updated on public issues, facilitating prompt and effective solutions.
